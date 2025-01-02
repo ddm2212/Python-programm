@@ -21,5 +21,3 @@ name="Dnyaneshwar"
 ll=[a for a in name]
 
 print(ll)
-
-
