@@ -41,7 +41,7 @@ print("Updated list:",l)
 
 # (2) Insert List_Fun():
 l.insert(0,10)
-print("Inseted List element",l)
+print("Inserted List element",l)
 
 # (3) Append List_fun():
 print("\n Append_list",l)
