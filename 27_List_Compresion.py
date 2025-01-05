@@ -19,5 +19,4 @@ print(li)
  # Converting String into List Using List_Comprehension
 name="Dnyaneshwar"
 ll=[a for a in name]
-
 print(ll)
