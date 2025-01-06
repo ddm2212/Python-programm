@@ -36,4 +36,3 @@ print("The  Reverse List is ",li,"\n Reverse String List: ",strlist)           #
 i=li.index(10)               # Return In index Value of 10
 
 print(i)
-
