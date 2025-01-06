@@ -21,7 +21,6 @@ print("The Smallest value of list : ",mi)
 stmin=min(strlist)
 print("The Minimum string into the list : ",stmin)
 
-
 #  4.Sort Function()
 li.sort()
 strlist.sort()
@@ -32,3 +31,9 @@ print('The Sorted list  is : ',li ," \t", strlist)
 li.reverse()
 strlist.reverse()
 print("The  Reverse List is ",li,"\n Reverse String List: ",strlist)           # Reversing the Whole List
+
+# 6.Index function
+i=li.index(10)               # Return In index Value of 10
+
+print(i)
+
